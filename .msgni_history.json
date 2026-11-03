@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "سلام"
+      }
+    ]
+  },
+  {
+    "parts": [
+      {
+        "text": "سلام! من MSGN AI هستم؛ دستیار حرفه‌ای برنامه‌نویسی و مدیریت پروژه شما. \n\nامروز چطور می‌توانم به شما کمک کنم؟ آیا پروژه‌ای داریم که باید روی آن کار کنیم یا سوالی دارید؟",
+        "thoughtSignature": "EmAKXgFpFH0TX73rkJGYebml7KwkvGOUgC4WBcFGeV6/ruWr0KnQ0MCYpDCv8u6htRdrBVC4HK8O9Qv7S/7GO7vr2Ex//pxjYB78+Fn1ZAbU6t/3K7S15XygtfVOG9pjbtg="
+      }
+    ],
+    "role": "model"
+  }
+]
